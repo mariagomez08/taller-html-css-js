@@ -24,6 +24,5 @@ botonDecrementar.addEventListener("click", function () {
   } else if (aux === 1) {
     aux = aux - 1;
     numeroContador.textContent = aux;
-    numeroContador.style.color = "red";
   }
 });
