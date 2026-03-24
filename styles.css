@@ -39,3 +39,15 @@ body {
   font-weight: bold;
   letter-spacing: 1px;
 }
+#btnDecrementar {
+  margin-top: 24px;
+  width: 100%;
+  padding: 14px;
+  background: linear-gradient(135deg, #9546b4, #a29bfe); 
+  border: none;       
+  border-radius: 10px;
+  font-size: 1.1rem;
+  cursor: pointer;    
+  font-weight: bold;
+  letter-spacing: 1px;
+}
